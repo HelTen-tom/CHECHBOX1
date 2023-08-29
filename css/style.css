@@ -63,6 +63,7 @@ padding-left: 1.2em;
 .check-input:checked+.check-box{
     background-color: #4A90E2;
     background-image: url(/img/checkmark.svg);
+    background-size: contain;
 }
 
 /*Focused*/
